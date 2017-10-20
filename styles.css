@@ -6,6 +6,8 @@ IMG {
 table,tr,td {
     border-style: solid;
     border-width: 2px;
+    padding: 1px;
+    text-align: center;
 }
 
 /* Style the Image Used to Trigger the Modal */
